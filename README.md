@@ -141,3 +141,33 @@
         </tr>
     </tbody>
 </table>
+
+<h1>UI Components Patterns</h1>
+<h2>Planned Components</h2>
+<ol>
+    <li><strong>Navbar</strong>
+        <ul>
+            <li>Logo</li>
+            <li>Search Bar</li>
+            <li>User navigation</li>
+            <li>Responsive menu</li>
+        </ul>
+    </li>
+    <li><strong>Property Card</strong>
+        <ul>
+            <li>Property image</li>
+            <li>Basic details (price, location, rating)
+</li>
+            <li>Favorite button</li>
+            <li>Responsive layout</li>
+        </ul>
+    </li>
+    <li><strong>Footer</strong>
+        <ul>
+            <li>Site links</li>
+            <li>Company information</li>
+            <li>Social media links</li>
+            <li>Copyright information</li>
+        </ul>
+    </li>
+</ol>
