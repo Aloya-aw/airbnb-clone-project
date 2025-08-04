@@ -144,7 +144,7 @@
     </tbody>
 </table>
 
-<h1>UI Components Patterns</h1>
+<h1>UI Component Patterns</h1>
 <h2>Planned Components</h2>
 <ol>
     <li><strong>Navbar</strong>
