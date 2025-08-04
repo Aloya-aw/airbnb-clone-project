@@ -69,3 +69,75 @@
 </ul>
 
 <p>Identifying the design properties of the mockup design is essential to maintain consistency in style accross the build, and helps in keeping all styles neatly defined in one space. </p>
+
+<h1>Project Roles and Responsibilities</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Role</th>
+            <th>Responsibilities</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Project Manager</td>
+            <td>Oversees timeline, coordinates team, manages deliverables</td>
+        </tr>
+        <tr>
+            <td>
+                Frontend Developers
+            </td>
+            <td>
+                Implements UI components, ensures responsive design
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Backend Developers
+            </td>
+            <td>
+                Builds APIs, manages database, implements business logic
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Designers
+            </td>
+            <td>
+                Creates mockups, maintains design system, ensures UX quality
+            </td>
+        </tr>
+        <tr>
+            <td>
+                QA/Testers
+            </td>
+            <td>
+                Writes test cases, performs testing, reports bugs
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DevOps Engineers
+            </td>
+            <td>
+                Manages deployment, CI/CD pipeline, server infrastructure
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Product Owner
+            </td>
+            <td>
+                Defines requirements, prioritizes features, represents stakeholders
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Scrum Master
+            </td>
+            <td>
+                Facilitates agile processes, removes blockers, organizes meetings
+            </td>
+        </tr>
+    </tbody>
+</table>
