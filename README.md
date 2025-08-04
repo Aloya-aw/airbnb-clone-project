@@ -55,7 +55,7 @@
 <p>A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.</p>
 
 <h2>Figma Design Specifications</h2>
-<h3>Color Styles<h3>
+<h3>Color Styles</h3>
 <ul>
     <li>Primary: #FF5A5F</li>
     <li>Secondary: #008489</li>
