@@ -27,7 +27,7 @@
     <li>User authentication</li>
 </ul>
 
-<h2>Primary Pages<h2>
+<h2>Primary Pages</h2>
 <table>
     <thead>
         <tr>
@@ -53,6 +53,7 @@
 
 <h2>Importance of User-Friendly Design</h2>
 <p>A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.</p>
+
 <h2>Figma Design Specifications</h2>
 <h3>Color Styles<h3>
 <ul>
@@ -60,7 +61,8 @@
     <li>Secondary: #008489</li>
     <li>Background: #FFFFFF</li>
     <li>Secondary Text: #717171</li>
-<ul>
+</ul>
+
 <h3>Typography</h3>
 <ul>
     <li>Primary Font: Circular, Medium (500), 16px</li>
